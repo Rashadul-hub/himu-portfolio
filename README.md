@@ -104,7 +104,7 @@ space-portfolio/
 ## :camera: Screenshots:
 
 ![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
-
+<!-- 
 ![Showcase your skills](/.github/images/img2.png "Showcase your skills")
 
 ![Built with Typescript](/.github/images/img3.png "Built with Typescript")
@@ -119,7 +119,7 @@ space-portfolio/
 
 [![Stats for Space Portfolio](/.github/images/stats.svg "Stats for Space Portfolio")](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d "Stats for Space Portfolio")
 
-## :raised_hands: Contribute
+## :raised_hands: Contribute -->
 <!-- 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
