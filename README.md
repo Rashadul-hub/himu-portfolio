@@ -120,7 +120,7 @@ space-portfolio/
 [![Stats for Space Portfolio](/.github/images/stats.svg "Stats for Space Portfolio")](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d "Stats for Space Portfolio")
 
 ## :raised_hands: Contribute
-
+<!-- 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
 ## :gem: Acknowledgements
@@ -189,4 +189,4 @@ You can also give this repository a star to show more people and they can use th
 </a>
 
 <br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
